@@ -4,7 +4,7 @@
 
 <template>
   <div class="flex justify-around items-center px-5">
-    <img class="h-screen" src="birch-tree.png" alt="birch tree image">
+    <img class="h-screen" src="public/birch-tree.png" alt="birch tree image">
     <p class=" bg-yellow-200 text-2xl">
       Welcome to the poetry page of Mikhail Lystsov
     </p>
