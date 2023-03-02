@@ -8,8 +8,13 @@ let curPoem = poemsJson.poems[route.params.id];
 </script>
 
 <template>
-  <div class=" text-center">
-    <h1 class=" text-xl top-1 font-bold">{{ curPoem['title-en'] }}</h1>
+  <RouterLink to="/poems">
+    <button class="w-16 text-lg bg-blue-300 absolute ml-2 mt-2">
+      Back
+    </button>
+  </RouterLink>
+  <div class=" text-center mt-10 pb-10">
+    <h1 class=" text-xl font-bold">{{ curPoem['title-en'] }}</h1>
     <div v-for="verse in curPoem['poem-en']" :key="curPoem.id">
       <br>
       <p v-for="line in verse" :key="curPoem.id"> {{ line }} </p>
