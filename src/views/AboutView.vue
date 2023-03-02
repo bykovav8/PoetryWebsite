@@ -1,6 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="flex">
+    <h1 class=" text-green-900 text-2xl">Mikhail Lystsov</h1>
+  </div>
+  <div class="flex">
+    <h2 class="text-green-900 text-xl">Biography</h2>
+  </div>
+  <div class="flex">
+    <p class=" text-blue-500">
+      Text text text
+    </p>
   </div>
 </template>
 

@@ -1,0 +1,182 @@
+{
+  "poems": [
+    {
+      "id": 0,
+      "title-en": "Poems Are Not Foreign To Me",
+      "title-rus": "Стихи не чужды мне…",
+      "year": 1971,
+      "poem-en": [
+        [
+          "In my chest, as a ringing string,",
+          "The verse will echo real - ",
+          "And that means, while I am alive,",
+          "I might not yet be lost."
+        ],
+        [
+          "Descendants of mine, forgive me",
+          "For doing so little to change the world.",
+          "For, in this rosy sunset,",
+          "I only grieved, giving in to the lyre."
+        ],
+        [
+          "In verses I sought answers - ",
+          "The unclear requests of the soul.",
+          "As if someone had tied",
+          "A maiden’s braids around my neck."
+        ],
+        [
+          "As if I have not lost inspiration",
+          "In my trembling soul.",
+          "At dawn, the rooster’s dashing song",
+          "Will speak of this to me."
+        ],
+        [
+          "And moon, old pal of mine,",
+          "Don’t try to look",
+          "Into my eyes now, cunningly - ",
+          "Love won’t find a home in them."
+        ]
+      ],
+      "poem-rus": [
+        [
+          "В моей груди, струной звенящей,",
+          "Стих отзовется настоящий - ",
+          "И значит я пока живой,",
+          "Еще быть может не пропащий."
+        ],
+        [
+          "Потомок мой прости меня,",
+          "Что я так мало сделал в мире,",
+          "Что в этот розовый закат",
+          "Я лишь грустил, отдавшись лире."
+        ],
+        [
+          "Ответа я в стихах искал - ",
+          "Души неясные запросы.",
+          "Как-будто кто-то завязал",
+          "На шее мне девичьи косы."
+        ],
+        [
+          "Как-будто в трепетной душе",
+          "Я не утратил вдохновенья.",
+          "Об этом скажет на заре",
+          "Мне петухов лихое пенье."
+        ],
+        [
+          "И сводня старая - луна,",
+          "Ты не старайся заглянуть",
+          "В мои глаза теперь лукаво - ",
+          "Любовь в них не найдет приют."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "title-en": "To My Village",
+      "title-rus": "Моей Деревне",
+      "year": 1972,
+      "poem-en": [
+        [
+          "Soon, the village",
+          "Will welcome me",
+          "With the childish cries",
+          "In the burdock fields"
+        ],
+        [
+          "With the creak",
+          "Of bucket-carrying cranes,",
+          "By the pond",
+          "With the gaggle of geese.",
+          "Horse’s eyes",
+          "Will shine",
+          "With a green sparkle",
+          "Of playful fires",
+          "On the meadow."
+        ],
+        [
+          "In the coolness of night",
+          "I’ll shed the weariness",
+          "From my soul - ",
+          "Even if it’s just the tiniest bit."
+        ]
+      ],
+      "poem-rus": [
+        ["Деревня встретит", "Меня на днях", "Ребячьим криком", "В лопухах,"],
+        [
+          "Скрипом",
+          "Колодезных журавлей",
+          "На пруду",
+          "Табунками гусей.",
+          "Блестят на лугу",
+          "Глаза коней",
+          "Зеленым блеском",
+          "Шальных огней."
+        ],
+        [
+          "В прохладе ночной",
+          "Я сброшу усталость",
+          "С души своей - ",
+          "Хоть самую малость."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "title-en": "I’ve Exhausted My Lyre",
+      "title-rus": "Измучил Лиру Я Свою",
+      "year": 1971,
+      "poem-en": [
+        [
+          "I’ve exhausted my lyre,",
+          "It’s time to lay down my pen - no good.",
+          "For it’s had enough of my harsh muse,",
+          "Of my rough words and my heart confused."
+        ],
+        [
+          "As I mourn with my beloved lyre,",
+          "Giving in to endless sorrow’s fire.",
+          "Life in this world will surely expire,",
+          "And I, tormented by an unknown desire."
+        ],
+        [
+          "And will my mournful verse hold sway,",
+          "Over those dark forces that hold at bay?",
+          "Will noble emotions triumph and stay,",
+          "Or will the sinister triumph today?"
+        ],
+        [
+          "Perhaps I should let my pen run free,",
+          "And let the screeching lyre play with me,",
+          "Together we’ll face the world’s misery,",
+          "And conquer the evil that holds the key."
+        ]
+      ],
+      "poem-rus":[
+        [
+          "Измучил лиру я свою.",
+          "Пора бросать перо - не дело.",
+          "Ей, видно, очень надоело - ",
+          "Ей грубым слогом душу рву."
+        ],
+        [
+          "Пока грущу я с милой лирой, ",
+          "Печали вечно предаюсь, ",
+          "Угаснет жизнь в подлунном мире, ",
+          "А я бог весть о чем томлюсь."
+        ],
+        [
+          "И разве мой печальный стих",
+          "Той темной силе сердце тронет,",
+          "Ее зловещий взмах потонет",
+          "В кипеньи благородных чувств?"
+        ],
+        [
+          "А может стоит потерзать",
+          "Пером скрипящим душу лире? - ",
+          "И вместе с нею бой принять",
+          "Со злом, что правит в нашем мире. "
+        ]
+      ]
+    }
+  ]
+}
