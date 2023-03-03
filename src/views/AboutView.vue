@@ -24,18 +24,6 @@
         </figure>
       </div>
     </main>
-
-  <!-- <div class="flex pt-10">
-    <h1 class=" text-green-900 text-2xl font-bold">Mikhail Lystsov</h1>
-  </div>
-  <div class="flex">
-    <h2 class="text-green-900 text-xl font-bold">Biography</h2>
-  </div>
-  <div class="flex">
-    <p class=" text-blue-500">
-      Text text text
-    </p>
-  </div> -->
 </template>
 
 <style scoped>
