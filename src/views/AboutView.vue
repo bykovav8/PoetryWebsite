@@ -1,8 +1,8 @@
 <template>
 
-  <main class="px-5">
-      <div class="flex justify-center">
-        <div class="mr-4 flex flex-col justify-center pb-16">
+  <main class="px-5 flex justify-center">
+      <div class="flex flex-col lg:flex-row lg:pt-0 pt-5 justify-center">
+        <div class="mr-4 flex flex-col justify-center">
           <h1 class="text-2xl font-bold mb-2">Mikhail Lystsov</h1>
           
           <span class=" w-[500px]">
@@ -26,18 +26,4 @@
     </main>
 </template>
 
-<style scoped>
-  /* Tablet */   
-@media all and (min-width: 400px) {
-   body {
-      grid-template-columns: 200px auto;
-      grid-template-rows: 50px 150px 150px 50px;    
-      grid-template-areas: 
-         "head head" 
-         "nav main"
-         "aside main"
-         "foot foot";
-   }
-}
-</style>
 

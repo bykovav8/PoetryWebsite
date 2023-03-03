@@ -3,9 +3,9 @@
 </script>
 
 <template>
-  <div class="flex justify-around items-center px-5">
+  <div class="flex justify-around items-center px-5 flex-col-reverse pt-3 text-center lg:flex-row">
     <img class=" picture h-screen" src="@/assets/birch-tree.png" alt="birch tree image">
-    <p class=" bg-yellow-200 text-2xl">
+    <p class=" bg-yellow-200 text-2xl mb-3">
       Welcome to the poetry page of Mikhail Lystsov
     </p>
   </div>
