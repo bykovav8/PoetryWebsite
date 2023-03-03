@@ -13,7 +13,7 @@
 </template>
 
 <style scoped>
-.picture {
+/* .picture {
   height: 100;
-}
+} */
 </style>
